@@ -1,10 +1,13 @@
 <h1>ScreenShots</h1>
-![Screenshot (154)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/e761c652-1478-4bd9-a412-ac293a7aedce)
-![Screenshot (158)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/d0e01ae8-0b44-47d5-8375-adffe9eee9fb)
-![Screenshot (160)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/024c9977-4945-4828-9f6c-0c058a043559)
-![Screenshot (159)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/2ac1efd6-b55b-4c31-9382-ba4fb39fdb73)
-![Screenshot (157)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/5049d3f2-300b-4f66-aaab-146be1350bc6)
-![Screenshot (156)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/16610a19-e3f8-4a41-8e51-aa57759903a8)
-![Screenshot (161)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/e55c5616-46f2-463f-ba38-0b4f3d351a4f)
-![Screenshot (155)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/0ab7e988-9adb-4934-8efe-fd8734808e97)
-![Screenshot (162)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/9b332a3c-aeb7-4e15-9a5c-8942f7ed557b)
+
+
+
+![Screenshot (154)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/5921a464-abd5-4c46-8597-f2deebd65024)
+![Screenshot (158)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/cebec25d-c390-40c3-8825-a7cb4a4197fb)
+![Screenshot (160)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/0df61b88-32c0-456e-9a9d-ffc4428a1672)
+![Screenshot (159)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/0b5f49ab-b89e-420f-aab6-c4d287efd446)
+![Screenshot (157)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/06efa11d-249d-4084-ad12-951d0609ce8d)
+![Screenshot (156)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/10a0cd49-1769-44f9-b664-b940e8627ea8)
+![Screenshot (161)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/88969a28-e3e3-4554-95d5-d8a7ab933845)
+![Screenshot (155)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/bb277215-60a3-499d-aeb7-388309c691bc)
+![Screenshot (162)](https://github.com/ayushchaubey17/Amazon_Clone/assets/123767430/21e1c912-72cd-43fe-b3b1-559dbf98378a)
